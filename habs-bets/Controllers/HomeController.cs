@@ -13,7 +13,7 @@ namespace habs_bets.Controllers
             return View();
         }
 
-        public ActionResult Players()
+        public ActionResult Betters()
         {
             return View();
         }
